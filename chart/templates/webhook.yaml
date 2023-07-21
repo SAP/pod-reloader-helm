@@ -84,7 +84,7 @@ webhooks:
       namespace: {{ .Release.Namespace }}
       path: /mutate
       port: 443
-  name: mutate.apps.kubernetes
+  name: mutate.apps.k8s.io
   rules:
   - apiGroups:
     - apps
