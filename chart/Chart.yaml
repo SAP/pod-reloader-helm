@@ -3,4 +3,4 @@ name: pod-reloader
 description: A Helm chart for https://github.com/sap/pod-reloader
 type: application
 version: 0.1.52
-appVersion: v0.1.52
+appVersion: v0.1.53
