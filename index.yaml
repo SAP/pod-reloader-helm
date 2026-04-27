@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   pod-reloader:
   - apiVersion: v2
+    appVersion: v0.1.83
+    created: "2026-04-27T07:58:01.896303777Z"
+    description: A Helm chart for https://github.com/sap/pod-reloader
+    digest: a9a0c5487db0db70a9bd6f51c7ac4b9a52cc32f642a2615bd94e5bf538028956
+    name: pod-reloader
+    type: application
+    urls:
+    - https://github.com/SAP/pod-reloader-helm/releases/download/0.1.81/pod-reloader-0.1.81.tgz
+    version: 0.1.81
+  - apiVersion: v2
     appVersion: v0.1.82
     created: "2026-04-20T07:51:27.043840319Z"
     description: A Helm chart for https://github.com/sap/pod-reloader
@@ -811,4 +821,4 @@ entries:
     urls:
     - https://github.com/SAP/pod-reloader-helm/releases/download/0.1.0/pod-reloader-0.1.0.tgz
     version: 0.1.0
-generated: "2026-04-20T07:51:27.043366898Z"
+generated: "2026-04-27T07:58:01.895740169Z"
